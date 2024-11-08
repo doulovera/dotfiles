@@ -1,0 +1,7 @@
+[user]
+	email = doulovera@gmail.com
+	name = Douglas Lovera
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
